@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai-usage",
+    "emoji": "🤖",
+    "title": "AI를 어떻게 활용 중인가요?",
+    "description": "업무나 사이드 프로젝트에서 AI를 어떤 방식으로 쓰고 있는지, 재미있었던 활용 사례를 나눠보세요.",
+    "accent": "#6366f1"
+  },
+  {
+    "id": "side-project",
+    "emoji": "🚀",
+    "title": "개인적으로 만들어보고 있는 프로젝트",
+    "description": "요즘 구상 중이거나 실제로 만들고 있는 사이드 프로젝트가 있다면 소개해 주세요.",
+    "accent": "#ec4899"
+  },
+  {
+    "id": "generalist-vs-specialist",
+    "emoji": "⚖️",
+    "title": "제너럴리스트 vs 스페셜리스트",
+    "description": "나는 어느 쪽에 가까운지, 그리고 왜 그렇게 생각하는지 이야기해 보세요.",
+    "accent": "#f59e0b"
+  },
+  {
+    "id": "current-concern",
+    "emoji": "💭",
+    "title": "요즘 하고 있는 고민",
+    "description": "커리어, 기술, 팀워크 등 요즘 머릿속을 맴도는 고민이 있다면 솔직하게 나눠보세요.",
+    "accent": "#10b981"
+  },
+  {
+    "id": "learning-stack",
+    "emoji": "📚",
+    "title": "새로 배우거나 눈여겨보는 기술 스택",
+    "description": "최근에 배워보고 싶거나 관심 있게 지켜보고 있는 기술이 있다면 무엇인가요?",
+    "accent": "#06b6d4"
+  },
+  {
+    "id": "slump",
+    "emoji": "🌱",
+    "title": "슬럼프와 극복법",
+    "description": "슬럼프를 겪었던 경험과 나만의 극복 방법을 공유해 주세요.",
+    "accent": "#8b5cf6"
+  },
+  {
+    "id": "dev-origin",
+    "emoji": "🧭",
+    "title": "개발자가 된 계기",
+    "description": "어떻게 개발을 시작하게 됐는지, 그 계기와 첫 시작을 들려주세요.",
+    "accent": "#f97316"
+  },
+  {
+    "id": "troubleshooting",
+    "emoji": "🔥",
+    "title": "기억에 남는 장애·트러블슈팅",
+    "description": "가장 기억에 남는 버그나 장애 대응 경험, 그때 배운 점을 공유해 주세요.",
+    "accent": "#ef4444"
+  },
+  {
+    "id": "productivity",
+    "emoji": "🛠️",
+    "title": "나만의 생산성 도구·꿀팁",
+    "description": "즐겨 쓰는 도구나 업무 효율을 높이는 나만의 팁이 있다면 소개해 주세요.",
+    "accent": "#14b8a6"
+  },
+  {
+    "id": "collaboration",
+    "emoji": "🤝",
+    "title": "협업에서 좋았던·아쉬웠던 경험",
+    "description": "함께 일하며 좋았던 순간이나 아쉬웠던 경험을 솔직하게 나눠보세요.",
+    "accent": "#3b82f6"
+  },
+  {
+    "id": "work-life",
+    "emoji": "🧘",
+    "title": "워라밸과 번아웃 관리",
+    "description": "일과 삶의 균형, 번아웃을 관리하는 나만의 방법은 무엇인가요?",
+    "accent": "#84cc16"
+  },
+  {
+    "id": "hobby",
+    "emoji": "🎨",
+    "title": "개발 외 취미·몰입하는 것",
+    "description": "코딩 말고 요즘 푹 빠져 있거나 즐기고 있는 것이 있다면 이야기해 주세요.",
+    "accent": "#d946ef"
+  }
+]

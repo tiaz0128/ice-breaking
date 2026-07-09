@@ -1,0 +1,10 @@
+{
+  "title": "명함 · 링크드인 교환",
+  "subtitle": "주제 토크 전에, 서로 연결되는 시간이에요.",
+  "steps": [
+    { "emoji": "💳", "text": "명함을 주고받으며 인사해요." },
+    { "emoji": "🔗", "text": "링크드인 QR을 스캔해 서로 팔로우해요." }
+  ],
+  "videoSrc": "/videos/linkedin-guide.mp4",
+  "videoLabel": "링크드인 QR 만들고 교환하는 방법"
+}

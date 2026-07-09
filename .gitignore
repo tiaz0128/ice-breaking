@@ -1,0 +1,36 @@
+# 의존성
+node_modules/
+
+# 빌드 산출물
+dist/
+dist-ssr/
+*.local
+
+# 로그
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 에디터/OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 환경 변수
+.env
+.env.*
+!.env.example
+
+# 사용자가 추가할 안내 영상 (용량 큰 미디어는 커밋 제외)
+public/videos/*.mp4
+public/videos/*.mov
+public/videos/*.webm
